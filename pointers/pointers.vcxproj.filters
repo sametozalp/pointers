@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp">
+    <ClCompile Include="addressLogic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ChangeNumbersValue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointersInString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

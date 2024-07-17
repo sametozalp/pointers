@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Samet\\Desktop\\pointers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{038681F7-CF22-44CE-996E-723B27DCD241}|pointers\\pointers.vcxproj|C:\\Users\\Samet\\Desktop\\pointers\\pointers\\ChangeNumbersValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{038681F7-CF22-44CE-996E-723B27DCD241}|pointers\\pointers.vcxproj|solutionrelative:pointers\\ChangeNumbersValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{038681F7-CF22-44CE-996E-723B27DCD241}|pointers\\pointers.vcxproj|C:\\Users\\Samet\\Desktop\\pointers\\pointers\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{038681F7-CF22-44CE-996E-723B27DCD241}|pointers\\pointers.vcxproj|solutionrelative:pointers\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{038681F7-CF22-44CE-996E-723B27DCD241}|pointers\\pointers.vcxproj|C:\\Users\\Samet\\Desktop\\pointers\\pointers\\pointersInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{038681F7-CF22-44CE-996E-723B27DCD241}|pointers\\pointers.vcxproj|solutionrelative:pointers\\pointersInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ChangeNumbersValue.cpp",
-              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\pointers\\pointers\\ChangeNumbersValue.cpp",
-              "RelativeDocumentMoniker": "pointers\\ChangeNumbersValue.cpp",
-              "ToolTip": "C:\\Users\\Samet\\Desktop\\pointers\\pointers\\ChangeNumbersValue.cpp",
-              "RelativeToolTip": "pointers\\ChangeNumbersValue.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Title": "pointersInString.cpp",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\pointers\\pointers\\pointersInString.cpp",
+              "RelativeDocumentMoniker": "pointers\\pointersInString.cpp",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\pointers\\pointers\\pointersInString.cpp",
+              "RelativeToolTip": "pointers\\pointersInString.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-15T15:45:48.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\pointers\\pointers\\Main.cpp",
-              "RelativeDocumentMoniker": "pointers\\Main.cpp",
-              "ToolTip": "C:\\Users\\Samet\\Desktop\\pointers\\pointers\\Main.cpp",
-              "RelativeToolTip": "pointers\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-15T15:31:13.725Z",
+              "WhenOpened": "2024-07-17T14:25:11.084Z",
               "EditorCaption": ""
             }
           ]

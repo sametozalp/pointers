@@ -8,6 +8,14 @@ void changeValue(int* x, int* y) {
 	*y = temp;
 }
 
+////*****OR*****\\\\\\\
+void changeValue(int &x, int &y) {
+	int temp;
+	temp = *x;
+	*x = *y;
+	*y = temp;
+}
+
 int main() {
 
 
